@@ -135,7 +135,7 @@ export default function SignupPage() {
         {/* 📷 Left Side Image */}
         <div className="bg-gray-50 hidden md:flex items-center justify-center p-4 md:p-6">
           <ExportedImage
-            src="/WebBanner.png"
+            src="/Websitediscountbanner-01.png"
             alt="Registration Illustration"
             width={500}
             height={500}

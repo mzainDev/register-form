@@ -182,7 +182,7 @@ const Login = () => {
 
                     <p className="register-link">
                         هل لديك حساب بالفعل؟{" "}
-                        <Link href="/signup">إنشاء حساب</Link>
+                        <Link href="/">إنشاء حساب</Link>
                     </p>
                 </div>
             </div>
